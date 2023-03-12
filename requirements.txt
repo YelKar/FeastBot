@@ -1,0 +1,5 @@
+pyTelegramBotApi
+bs4~=0.0.1
+beautifulsoup4~=4.11.2
+cloudscraper~=1.2.69
+python-dotenv~=1.0.0
