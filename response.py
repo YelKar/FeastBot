@@ -1,6 +1,6 @@
 from typing import Iterable
 
-from fetes import Feast
+from feasts import Feast
 
 
 def day(day_: Iterable[Feast]):
